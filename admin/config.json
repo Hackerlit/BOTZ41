@@ -7,4 +7,5 @@
    "ig": "RIMURUBOTZ",
    "fb": "TIDAK ADA",
    "tt": "TIDAK ADA"
+   global.sessionName = 'session'
 }
